@@ -1,0 +1,15 @@
+.left-button
+.right-button {
+    font-size: 28px;
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
+
+.left-button {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.right-button {
+    background-color: yellow;
+}
